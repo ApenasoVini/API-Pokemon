@@ -1,12 +1,12 @@
 import React from 'react'
 import './App.css'
-import Pokedex from './components/Pokedex'
+import Carta from './components/Carta'
 
 function App() {
 
   return (
     <>
-      <Pokedex />
+      <Carta />
     </>
   )
 }
