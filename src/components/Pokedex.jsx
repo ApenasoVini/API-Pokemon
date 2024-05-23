@@ -31,6 +31,7 @@ export default function Pokedex() {
                         {pokemon.types.map((type, index) => (
                             <p key={index}>{type.type.name}</p>
                         ))}
+                        <img src={pokemon.sprites["front_default"]} />
                     </div>
                 )
             }
