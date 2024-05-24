@@ -29,7 +29,9 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣛⣦⠴⢿⢶⣿⣿⡤⢴⣶⢿⡛⠁⠙⣿⣶⣤⣤⣾⣗⢶⣯⣤⣴⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </div>
 
-Página Web responsiva para consumo de uma API de [pokémon](https://pokeapi.co/).
+<br>
+
+Página Web para consumo de uma API de [pokémon](https://pokeapi.co/).
 
 ## Rodando localmente
 
