@@ -38,7 +38,7 @@ Página Web para consumo de uma API de [pokémon](https://pokeapi.co/).
 Clone o projeto
 
 ```bash
-  git clone https://github.com/ApenasoVini/API-Pokemon.git
+  git clone https://github.com/ApenasoVini/Pokedex.git
 ```
 
 Instale as dependências
